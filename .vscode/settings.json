@@ -1,0 +1,7 @@
+{
+    "git.enabled": true,
+    "git.enableCommitSigning": false,
+    "git.allowForcePush": false,
+    "git.allowNoVerifyCommit": true,
+    "git.blame.editorDecoration.enabled": true
+}
